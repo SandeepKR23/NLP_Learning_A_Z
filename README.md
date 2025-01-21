@@ -11,4 +11,3 @@ pip install -r requirements.txt
 unicorn main:app 
 =======
 # NLP_Learning_A_Z
->>>>>>> bc8ee35d480ce5986b08f1bd271c24e383a14007
